@@ -1,0 +1,2 @@
+# NewsManagementSystem
+基于bootstrap与Java SSH的新闻管理系统
